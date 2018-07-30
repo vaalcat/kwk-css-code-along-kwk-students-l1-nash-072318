@@ -1,1 +1,29 @@
 /* add CSS class and element and selectors here */
+
+h1 {color:#5D658C;}
+p {color:#5D658C;}
+
+.example {
+  color:yellow;
+  font-size:14px;
+  
+  
+  
+}
+
+    body {
+      background-color: lightpink;
+      font-size: 150%;
+    }
+    
+   .myClass {
+      background-color: gray;
+      color: blue
+    }
+    
+    
+  
+
+
+
+
